@@ -8,7 +8,7 @@
   </a>
   
 </p>
-<img src="./.github/1.png" alt="Gym-Pass-API-SOLID" title="Gym-Pass-API-SOLID">
+<img src="./.github/Gym_Pass_API.png" alt="Gym-Pass-API-SOLID" title="Gym-Pass-API-SOLID">
 
 
 
