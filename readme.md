@@ -1,14 +1,14 @@
-# Gym Pass API 
+# Gym Pass API (SOLID)
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GianDutra/API-com-SOLID?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GianDutra/Gym-Pass-API-SOLID?color=%2304D361">
 
-   <a href="https://github.com/GianDutra/API-com-SOLID/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GianDutra/API-com-SOLID">
+   <a href="https://github.com/GianDutra/Gym-Pass-API-SOLID/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GianDutra/Gym-Pass-API-SOLID">
   </a>
   
 </p>
-<img src="./.github/1.png" alt="TasksAPI-Challenge" title="TasksAPI-Challenge">
+<img src="./.github/1.png" alt="Gym-Pass-API-SOLID" title="Gym-Pass-API-SOLID">
 
 
 
