@@ -97,20 +97,39 @@ Validates a check-in. Only administrators can access this route.
 
 - **[NodeJS](https://nodejs.org)**
 - **[Fastify](https://github.com/fastify/fastify)**
+- **[Fastify/JWT](https://github.com/fastify/fastify-jwt)**
+- **[Fastify/cookie](https://github.com/fastify/fastify-cookie)**
+- **[Prisma](https://www.prisma.io/)**
+- **[Bcryptjs](https://github.com/dcodeIO/bcrypt.js)**
+- **[Supertest](https://github.com/visionmedia/supertest)**
+- **[Tsup](https://github.com/effector/tsup)**
+- **[Vitest](https://github.com/vitejs/vite)**
+- **[Dayjs](https://github.com/iamkun/dayjs)**
+- **[Zod](https://github.com/vriad/zod)**
 - **[PostgreSQL](https://www.postgresql.org/)**
-- **[JWT (JSON Web Token)](https://jwt.io/)**
+
+
 
 ## 🚀 Testing Gym-Pass-API
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-username/Gym-Pass-API.git
+$ git clone https://github.com/your-username/Gym-Pass-API-SOLID.git
 
 # Access the project folder in your terminal
-$ cd Gym-Pass-API
+$ cd Gym-Pass-API-SOLID
 
 # Install the dependencies
 $ npm install
+
+# Run the Docker Compose file provided in the backend of this project.
+$ docker-compose up 
+
+# Apply database migrations by running
+$ npx prisma migrate dev
+
+# Start Prisma Studio to manage your database:
+$ npx prisma studio
 
 # Run the application in developer mode
 $ npm run dev
